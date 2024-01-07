@@ -1,3 +1,4 @@
+package Problems;
 //Even Product!
 public class Solution {
     public int solve(ArrayList<Integer> A) {

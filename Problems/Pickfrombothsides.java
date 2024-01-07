@@ -1,3 +1,4 @@
+package Problems;
 //Pick from both sides!
 public class Solution {
     public int solve(ArrayList<Integer> A, int B) {

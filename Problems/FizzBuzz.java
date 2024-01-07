@@ -1,3 +1,4 @@
+package Problems;
 //FizzBuzz
 public class Solution {
     public ArrayList<String> fizzBuzz(int A) {

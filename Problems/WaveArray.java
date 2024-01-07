@@ -1,3 +1,4 @@
+package Problems;
 //Wave Array
 public class Solution {
     public ArrayList<Integer> wave(ArrayList<Integer> A) {

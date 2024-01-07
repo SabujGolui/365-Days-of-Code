@@ -1,3 +1,4 @@
+package Problems;
 public class Solution {
     public String solve(String A) {
         
